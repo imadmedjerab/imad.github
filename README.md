@@ -1,58 +1,181 @@
-🧠 Imad — Données de portefeuille et IA
-Bienvenue dans mon portfolio GitHub.
-Je suis passionné par l'analyse de données, les systèmes distribués, l'intelligence artificielle, la simulation industrielle et la construction de pipelines complets.
-Ce dépôt regroupe mes projets principaux, avec du code complet, de la documentation et des résultats.
+# 👋 Salut, moi c’est Imad — Data Scientist & Machine Learning Engineer
 
-🚀 Mes Projets
-🔷 1. Entrepôt de données et OLAP
-Objectif : modélisation multidimensionnelle, ETL, création de cubes OLAP, opérations (slice, dice, roll-up, drill-down).
-📁 Projet : https://github.com/USERNAME/OLAP
+Bienvenue sur mon portfolio !  
+Je suis étudiant en Master informatique (ASD) à l’Université d’Alger 1, passionné par la **Data Science**, l’IA, l’analyse de données, les systèmes de recommandation et la conception de solutions intelligentes.
 
-🔷 2. Simulation d'une Ligne de Production (FlexSim)
-Objectif : simuler une ligne avec 5 machines, opérateurs variables, zones de stockage, pannes et analyses TRS.
-📁 Projet : https://github.com/USERNAME/simulation-production
+Je travaille sur des projets concrets en :
+- 🧠 Machine Learning & Deep Learning  
+- 📊 Data Mining & Prévision  
+- 🏭 Simulation & Modélisation  
+- 🧱 Data Warehouse & OLAP  
+- 🕸 Analyse des réseaux sociaux  
+- 🔎 OCR & Extraction automatique de données  
+- 📈 Data Visualisation  
+- 🌐 Développement Web (Django)
 
-🔷 3. Data Mining — Règles d'Association
-Objectif : extraction des fermetures, treillis, dépendances fonctionnelles, algorithmes Norris & Next-Closure.
-📁 Projet : https://github.com/USERNAME/data-mining-association-rules
+---
 
-🔷 4. Pipeline OCR pour Factures (ZIP → PDF → Image → Texte → JSON)
-Tech : Tesseract, OpenCV, Spark NLP, Regex
-Étapes : extraction ZIP, prétraitement, OCR, parsing, export CSV/JSON.
-📁 Projet : https://github.com/USERNAME/invoice-ocr-pipeline
+# 📂 **Mes principaux projets**
 
-🔷 5. Analyse de Réseaux Sociaux (NetworkX)
-Objectif : détecter les hubs, les centralités, les communautés, les chemins les plus courts dans un graphe social.
-📁 Projet : https://github.com/USERNAME/network-analysis
+> ⭐ Les liens GitHub seront ajoutés dès que les repositories seront créés.
 
-🔷 6. Machine Learning — Apprentissage Supervisé
-Objectif : pipelines ML complets (prétraitement, modélisation, évaluation, réglage).
-📁 Projet : https://github.com/USERNAME/machine-learning-project
+---
 
-🔷 7. Apprentissage actif
-Objectif : réduire le coût d'annotation en apprenant intelligemment les données à étiqueter.
-Stratégies : échantillonnage d'incertitude, échantillonnage d'entropie, échantillonnage de marge.
-📁 Projet : https://github.com/USERNAME/active-learning
+## 🗄️ 1. **Data Warehouse & OLAP**
+**Objectif :** Construire un entrepôt de données complet avec modélisation multidimensionnelle, ETL et cube OLAP.  
+**Technos :** Talend / Pentaho / Power BI  
+**Travail réalisé :**
+- Modèle en étoile (Faits + Dimensions)
+- Définition des métadonnées et clés
+- Processus ETL (extraction, nettoyage, transformation, chargement)
+- Cube OLAP + analyses décisionnelles
 
-🛠️ Compétences Techniques
-📊 Données et analyses
-Exploration de données, entrepôt de données, OLAP
-SQL avancé, ETL
-Indicateurs clés de performance (KPI), tableaux de bord
-🤖 Apprentissage automatique et intelligence artificielle
-Scikit-learn, PyTorch, TensorFlow
-Ingénierie des fonctionnalités
-Apprentissage actif, modèles supervisés et non supervisés
-🧵 Systèmes Distribués
-Apache Spark
-Bases réparties : fragmentation & allocation
-Traitement de fichiers volumineux
-🧪 Développement
-Python (avancé)
-Expressions régulières, Bash
-Git et GitHub
-Jupyter Notebooks
-⚙️ Simulation
-FlexSim
-Analyser TRS, goulots d'étranglement
-Optimisation des ressources industrielles
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 🤖 2. **Système de Régression & Comparaison de Modèles**
+**Objectif :** Implémenter et comparer plusieurs modèles de régression.  
+**Techniques utilisées :**
+- Régression linéaire
+- Régression polynomiale
+- Ridge & Lasso
+- Validation croisée
+- Analyse du surapprentissage / sous-apprentissage
+
+**Metrics :** MSE, précision, complexité, temps d’entraînement
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 🏭 3. **Simulation d’un Système de Production**
+**Objectif :** Simuler une usine contenant 5 machines, des zones de stockage et plusieurs opérateurs.  
+**Outil :** FlexSim  
+**Analyse :**
+- Impact du nombre d’opérateurs
+- Temps de process (40s)
+- Scénarios de pannes
+- Indicateurs clés (TRS, WIP, throughput…)
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 🧾 4. **Extraction Automatique de Données depuis des Factures (OCR)**
+**Objectif :** Automatiser l’extraction de champs clés : n° facture, date, client, montant, TVA…  
+**Technos :** Python, Tesseract, OpenCV, Regex, Spark NLP  
+**Étapes principales :**
+- Prétraitement d’image (binarisation, débruitage…)
+- OCR multi-format (PDF, JPG, PNG…)
+- Extraction par regex
+- Structuration (JSON / CSV)
+- Interface utilisateur (bonus)
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 🌍 5. **Prévision & Analyse des émissions de CO₂ (Time Series)**
+**Objectif :** Prédire les niveaux futurs d’émission de CO₂.  
+**Datasets :** Kaggle (liens fournis dans le projet)  
+**Modèles implémentés :**
+- ARIMA
+- SARIMA
+- LSTM
+- Transformers (Time Series)
+
+**Analyses :** MSE, RMSE, MAE, R², temps d’inférence, complexité
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 🕸️ 6. **Réseau Social Web + Système de Recommandation**
+**Objectif :** Construire un mini réseau social avec recommandations.  
+**Fonctionnalités :**
+- Inscription / Login sécurisés
+- Profils, posts, images, likes, commentaires
+- Amitiés + suggestions d’amis
+- Recommandation de contenu
+- Back-end Django + front-end responsive
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 📊 7. **Analyse du Réseau de Zachary (NetworkX)**
+**Objectif :** Modéliser et analyser le réseau réel du club de karaté.  
+**Analyses réalisées :**
+- Matrice d’adjacence (faite manuellement)
+- Distribution des degrés
+- Clustering coefficient
+- Cliques, k-core
+- Centralités : degré, proximité, intermédiarité
+- Interface graphique + export CSV/images
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 📝 8. **Reconnaissance des caractères arabes manuscrits (Deep Learning + Active Learning)**
+**Dataset :** OIHACDB  
+**Tâches :**
+- Classification des caractères arabes isolés
+- Application de l’Active Learning (uncertainty sampling, entropy, margin…)
+- Comparaison des techniques AL
+- Analyse des performances
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 📈 9. **Projet de Data Visualisation : Analyse des opérateurs télécoms (Scraping & Power BI)**
+**Objectif :** Scraper & analyser les posts Facebook de :  
+Ooredoo — Djezzy — Mobilis.
+
+**Étapes :**
+- Scraping Python (Posts.csv / Comments.csv)
+- Nettoyage Power Query
+- Dashboard Power BI :  
+  - Sentiment analysis  
+  - Comparaison concurrentielle  
+  - Insights automatiques  
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+## 📐 10. **Analyse Factorielle & Régression Multivariée**
+Application de :
+- ACP (PCA)
+- Régression multiple
+- Analyse factorielle
+- Visualisations avancées
+- Évaluation des modèles
+
+➡️ *Lien GitHub:* prochainement
+
+---
+
+# 🛠️ **Stack Technique**
+- **Langages :** Python, SQL, R, JavaScript, HTML/CSS  
+- **ML/DL :** Scikit-learn, TensorFlow, Keras, PyTorch  
+- **Data :** Pandas, NumPy, Spark, Power BI  
+- **OCR & Vision :** OpenCV, Tesseract, EasyOCR  
+- **Simulation :** FlexSim  
+- **Web :** Django, REST Framework  
+- **Visualisation :** Matplotlib, Seaborn, Power BI  
+- **Big Data :** Spark NLP  
+
+---
+
+# 📞 Me contacter
+- **Email :** *(à ajouter)*  
+- **LinkedIn :** *(à ajouter)*  
+- **GitHub :** https://github.com/*(ton-user)*  
+
+---
+
+# ⭐ Merci d’avoir visité mon portfolio !
+N’hésitez pas à explorer mes projets et me contacter pour collaborer 🚀

@@ -101,7 +101,7 @@ Je travaille sur des projets concrets en :
 - Recommandation de contenu
 - Back-end Django + front-end responsive
 
-[Télécharger Karate_project.py](https://github.com/imadmedjerab/imad.github/blob/main/karate_project%20(4).py)
+
 
 ---
 
@@ -115,7 +115,7 @@ Je travaille sur des projets concrets en :
 - Centralités : degré, proximité, intermédiarité
 - Interface graphique + export CSV/images
 
-
+[Télécharger Karate_project.py](https://github.com/imadmedjerab/imad.github/blob/main/karate_project%20(4).py)
 
 ---
 

@@ -1,8 +1,3 @@
-<p align="center">
- <img src="assets/img/immad.jpg" width="200" align="left" style="margin-right: 20px;" />
-</p>
-
-
 # 👋 Salut, moi c’est Imad — Data Scientist & Machine Learning Engineer
 
 Bienvenue sur mon portfolio !  

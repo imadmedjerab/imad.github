@@ -73,7 +73,7 @@ Je travaille sur des projets concrets en :
 - Structuration (JSON / CSV)
 - Interface utilisateur (bonus)
 
-➡️ *Lien GitHub:* prochainement
+[Télécharger El.zip](https://github.com/imadmedjerab/imad.github/blob/main/EI.zip)
 
 ---
 

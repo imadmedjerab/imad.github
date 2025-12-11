@@ -88,7 +88,7 @@ Je travaille sur des projets concrets en :
 
 **Analyses :** MSE, RMSE, MAE, R², temps d’inférence, complexité
 
-➡️ *Lien GitHub:* prochainement
+[Télécharger Data_Mining.zip](https://github.com/imadmedjerab/imad.github/blob/main/Data_Mining.zip)
 
 ---
 
@@ -101,7 +101,7 @@ Je travaille sur des projets concrets en :
 - Recommandation de contenu
 - Back-end Django + front-end responsive
 
-➡️ *Lien GitHub:* prochainement
+
 
 ---
 
@@ -115,7 +115,7 @@ Je travaille sur des projets concrets en :
 - Centralités : degré, proximité, intermédiarité
 - Interface graphique + export CSV/images
 
-➡️ *Lien GitHub:* prochainement
+
 
 ---
 

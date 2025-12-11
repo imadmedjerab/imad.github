@@ -47,8 +47,7 @@ Je travaille sur des projets concrets en :
 
 **Metrics :** MSE, précision, complexité, temps d’entraînement
 
-➡️ *Lien GitHub:* prochainement
-
+[Télécharger PredictRegres.py.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PredictRegres.py.ipynb)
 ---
 
 ## 🏭 3. **Simulation d’un Système de Production**

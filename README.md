@@ -59,7 +59,7 @@ Je travaille sur des projets concrets en :
 - Scénarios de pannes
 - Indicateurs clés (TRS, WIP, throughput…)
 
-➡️ *Lien GitHub:* prochainement
+[Télécharger simulation.zip](https://github.com/imadmedjerab/imad.github/blob/main/Simulation.zip)
 
 ---
 

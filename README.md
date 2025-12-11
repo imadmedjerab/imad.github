@@ -171,9 +171,9 @@ Application de :
 ---
 
 # 📞 Me contacter
-- **Email :** *(à ajouter)*  
-- **LinkedIn :** *(à ajouter)*  
-- **GitHub :** https://github.com/*(ton-user)*  
+- **Email :** *medjerabimad9@gmail.com*  
+- **LinkedIn :** *https://www.linkedin.com/in/imad-medjerab-8400a0341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
+- **GitHub :** https://github.com/*imadmedjerab*  
 
 ---
 

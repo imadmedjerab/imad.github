@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/immad.jpg" width="220" />
+ <img src="assets/img/immad.jpg" width="200" align="left" style="margin-right: 20px;" />
 </p>
 
 

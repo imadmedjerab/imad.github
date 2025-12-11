@@ -126,8 +126,7 @@ Je travaille sur des projets concrets en :
 - Application de l’Active Learning (uncertainty sampling, entropy, margin…)
 - Comparaison des techniques AL
 - Analyse des performances
-
-➡️ *Lien GitHub:* prochainement
+[Télécharger PROJET_MLA.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PROJET_MLA%20(1)%20(2).ipynb)
 
 ---
 

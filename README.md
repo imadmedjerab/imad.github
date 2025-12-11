@@ -71,7 +71,6 @@ Je travaille sur des projets concrets en :
 - OCR multi-format (PDF, JPG, PNG…)
 - Extraction par regex
 - Structuration (JSON / CSV)
-- Interface utilisateur (bonus)
 
 [Télécharger El.zip](https://github.com/imadmedjerab/imad.github/blob/main/EI.zip)
 
@@ -126,6 +125,7 @@ Je travaille sur des projets concrets en :
 - Application de l’Active Learning (uncertainty sampling, entropy, margin…)
 - Comparaison des techniques AL
 - Analyse des performances
+  
 [Télécharger PROJET_MLA.ipynb](https://github.com/imadmedjerab/imad.github/blob/main/PROJET_MLA%20(1)%20(2).ipynb)
 
 ---
@@ -142,7 +142,7 @@ Ooredoo — Djezzy — Mobilis.
   - Comparaison concurrentielle  
   - Insights automatiques  
 
-➡️ *Lien GitHub:* prochainement
+
 
 ---
 
@@ -154,7 +154,6 @@ Application de :
 - Visualisations avancées
 - Évaluation des modèles
 
-➡️ *Lien GitHub:* prochainement
 
 ---
 

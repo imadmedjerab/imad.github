@@ -17,7 +17,6 @@ Je travaille sur des projets concrets en :
 
 # 📂 **Mes principaux projets**
 
-> ⭐ Les liens GitHub seront ajoutés dès que les repositories seront créés.
 
 ---
 
